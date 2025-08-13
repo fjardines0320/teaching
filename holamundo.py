@@ -1,3 +1,3 @@
 print("Hola mundo")
-edad= 10+15
+edad= 10+20
 print(edad)
